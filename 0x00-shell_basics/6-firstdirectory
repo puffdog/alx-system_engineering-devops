@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/create_directory_name
+mkdir /tmp/My_first_directory
