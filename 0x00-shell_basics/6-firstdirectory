@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir name/tmp/
+mkdir /tmp/create_directory_name
